@@ -21,7 +21,7 @@ All that's need is a browswer to view index.html file
 For using the best practices to clean up/refactor code.  
 
 
-    ![screenshot of project ](screenshotsvg.png)
+    ![screenshot of project](screenshotSEO.png)
     
 
 ## Credits
@@ -35,5 +35,5 @@ NO license
 ## Links
 
 Link to Repository: https://github.com/SmorenoContreras/BringMeTheHoriseon
-Link to deployed page: 
+Link to deployed page: https://smorenocontreras.github.io/BringMeTheHoriseon/
 
